@@ -1,0 +1,159 @@
+*{
+    margin:0;
+    padding:0;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.tagline{
+    font-family: 'Dancing Script', cursive;
+    font-size: large;
+}
+.container{
+
+    height: 1500px;
+    width: 1500px;
+    border: none;
+    padding: 0px;
+    margin: 40px;
+    margin-left: 150px;
+}
+
+.left-bar{
+    height: 1500px;
+    width: 720px;
+    background-color: #A7727D;
+    
+    border: 2px solid black;
+    
+    
+}
+
+.right-bar{
+    height: 1500px;
+    width: 900px;
+    
+    border: 2px solid black;   
+    background-color: #EDDBC7;
+    position: absolute;
+    top:40px;
+    left:860px;
+    
+}
+
+img{
+    height: 180px;
+    width: 150px;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.header{
+
+    position: relative;
+    left:170px;
+    bottom:120px;
+}
+
+.about-me{
+    padding: 15px;
+    margin: 15px;
+    line-height: 1.5;
+    position: relative;
+    left: 5px;
+    bottom: 50px;
+
+    
+}
+.right{
+    background-color: #A7727D;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+}
+
+.education{
+    padding: 15px;
+    margin: 15px;
+    line-height: 2;
+    position: relative;
+    left: 5px;
+    bottom: 50px;
+
+}
+
+.projects,.project-2{
+    padding: 15px;
+    margin: 15px;
+    line-height: 2;
+    position: relative;
+    left: 5px;
+    bottom: 70px;
+
+}
+
+
+.certificates{
+    padding: 15px;
+    margin: 15px;
+    line-height: 2;
+
+}
+
+.work-experience{
+    padding: 15px;
+    margin: 15px;
+    line-height: 2;
+}
+
+.strengths{
+    padding: 15px;
+    margin: 15px;
+    line-height: 1.5;
+    position: relative;
+    left: 5px;
+    bottom: 30px;
+    line-height: 2;
+
+}
+
+.dev-lan{
+    height: 30px;
+    width: 200px;
+
+
+}
+.dev-web{
+    height: 30px;
+    width: 350px;
+    position: relative;
+    left:250px;
+    bottom:30px;
+
+}
+
+.dev-tools{
+    height: 60px;
+    width: 200px;
+    position: relative;
+    left: 450px;
+    bottom: 60px;
+
+}
+
+.dev-db{
+    height: 30px;
+    width: 200px;
+    position: relative;
+    left:650px;
+    bottom: 120px;
+
+}
+
